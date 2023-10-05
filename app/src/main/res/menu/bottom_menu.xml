@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@id/poinFragment"
+        android:icon="@drawable/ic_trophy"
+        android:title="@string/poin" />
+    <item
+        android:id="@id/shopFragment"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/shop" />
+    <item
+        android:id="@id/exploreFragment"
+        android:icon="@drawable/ic_rocket"
+        android:title="@string/explore" />
+    <item
+        android:id="@id/menuFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/menu" />
+    
+</menu>
+
